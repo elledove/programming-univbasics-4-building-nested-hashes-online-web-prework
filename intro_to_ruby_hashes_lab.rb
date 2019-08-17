@@ -20,11 +20,7 @@ def monopoly_with_third_tier
      :one_owned_piece
      :two_owned_pieces
      :three_owned_pieces
-     :four_owned_pieces 
-     
-     
-     
-     
+     :four_owned_pieces }
      
    }}
    
