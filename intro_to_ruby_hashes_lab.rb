@@ -21,6 +21,7 @@ def monopoly_with_third_tier
      :two_owned_pieces => 50 ,
      :three_owned_pieces => 100,
      :four_owned_pieces =>200}
+     {:names => {}
   
      
    }}
